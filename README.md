@@ -94,3 +94,7 @@ Business Intelligence
 - `Criando_DB_Tabelas_Ecommerce.sql`: Schema completo do banco
 - `Populando_Tabela_Ecommerce.sql`: Dados de exemplo para testes
 - `Consultas_Ecommerce.sql`: Consultas de análise e business intelligence
+
+---
+
+**Desenvolvido como parte da Formação Power BI Analyst - Digital Innovation One**
