@@ -97,4 +97,4 @@ Business Intelligence
 
 ---
 
-**Desenvolvido como parte da Formação Power BI Analyst - Digital Innovation One**
+Desenvolvido como parte da Formação Suzano - Análise de Dados com Power BI - Digital Innovation One
